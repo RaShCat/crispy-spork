@@ -11,7 +11,7 @@ namespace AppForMyLife
         //FoxReader Fox = new FoxReader();
         string playerName;
         int money;
-        int damage = 20;
+        int damage = 30;
         public int Damage { get { return damage; } set { damage = value; } }
         
         
