@@ -1,0 +1,14 @@
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.exe.config
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.exe
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.pdb
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.exe
+C:\Users\Артём\source\repos\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.pdb
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.exe.config
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.exe
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\bin\Debug\AppForMyLife.pdb
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.exe
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.pdb
+C:\Users\Артём\Desktop\AppForMyLife\AppForMyLife\obj\Debug\AppForMyLife.csprojAssemblyReference.cache
